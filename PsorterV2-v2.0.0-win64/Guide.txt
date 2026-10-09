@@ -1,0 +1,124 @@
+===================================================================
+                PANDUAN TUTORIAL PENGGUNAAN PSORTERV2
+===================================================================
+
+1. PEMILIHAN MODE PERFORMA APLIKASI
+-------------------------------------------------------------------
+Saat aplikasi dijalankan, dialog pilihan mode performa akan muncul:
+
+- Mode Optimasi (OPTIMASI):
+  Mode ringan yang mematikan pemutar video dan menggunakan memori 
+  RAM/CPU secara minimal. Mode ini cocok untuk komputer spesifikasi 
+  rendah atau pemrosesan file lebih dari 10.000 file.
+
+- Mode Normal (NORMAL):
+  Mode standar yang mengaktifkan pemutar video, audio, dan pembuatan 
+  thumbnail dengan penggunaan sumber daya sistem yang seimbang.
+
+- Mode Full (FULL):
+  Mode performa tinggi yang memindai sub-folder asli (child folder), 
+  mendukung mode pindah langsung, dan menggunakan 8 threads pemrosesan.
+
+
+2. MEMILIH FOLDER SUMBER DAN FOLDER TUJUAN
+-------------------------------------------------------------------
+- Folder Sumber:
+  Klik tombol ini untuk memilih folder lokasi foto dan video yang 
+  ingin disusun.
+
+- Folder Tujuan (Folder Tujuan Utama):
+  Klik tombol ini untuk memilih folder destinasi.
+
+- Aplikasi secara otomatis akan membuat sub-folder bernama PSORTER 
+  di dalam folder tujuan utama sebagai ruang penyusunan.
+
+
+3. MENGELOLA SUB-FOLDER TUJUAN
+-------------------------------------------------------------------
+Panel sebelah kiri menampilkan daftar sub-folder di dalam folder PSORTER:
+
+- Buat Folder Baru (+ Buat Folder Baru / Tombol N):
+  Menambah sub-folder tujuan baru.
+
+- Rename Folder:
+  Mengubah nama sub-folder yang dipilih.
+
+- Hapus Folder:
+  Menghapus sub-folder tujuan beserta seluruh isinya.
+
+- Pin / Unpin Folder:
+  Sematkan sub-folder penting di bagian atas daftar.
+
+
+4. METODE PENYUSUNAN FILE
+-------------------------------------------------------------------
+- Mode Pindah vs Mode Salin:
+  Gunakan sakelar di bagian atas kanan untuk memilih antara 
+  Mode: PINDAH atau Mode: SALIN.
+
+- Penyusunan Manual:
+  Pilih sub-folder tujuan pada panel kiri, lalu klik tombol 
+  PINDAHKAN FILE / SALIN FILE atau tekan tombol Enter.
+
+- Pindahan Cepat (Quick Move):
+  Tekan angka 1 hingga 9 pada papan ketik untuk memindahkan file 
+  langsung ke sub-folder sesuai indeks angka dalam daftar.
+
+- Sortir Otomatis (AUTO-SORT MEDIA):
+  Membagikan file secara otomatis ke dalam sub-folder berdasarkan 
+  format ekstensi (JPG, PNG, MP4) atau tanggal pembuatan file (YYYY-MM-DD).
+
+- Pindah Langsung (PINDAH LANGSUNG):
+  Memindahkan seluruh file gambar dan video dari sub-folder sumber 
+  secara langsung ke folder tujuan (khusus Mode Full).
+
+
+5. KONTROL PRATINJAU & PEMUTAR MEDIA
+-------------------------------------------------------------------
+- Pratinjau Gambar & Video:
+  Mode pratinjau menampilkan informasi dimensi gambar/video, 
+  ukuran file, serta tanggal pengambilan.
+
+- Putar / Jeda Video:
+  Tekan tombol Spacebar atau tombol PLAY / PAUSE VIDEO untuk 
+  memutar atau menghentikan video.
+
+- Slider Garis Waktu (Timeline Slider):
+  Geser slider untuk melompat ke waktu atau frame video tertentu.
+
+- Kontrol Volume & Mute:
+  Gunakan slider volume atau tombol pengeras suara untuk mengatur suara.
+
+- Mode Folder (Grid):
+  Ubah tampilan ke Mode Folder (Grid) untuk melihat daftar tampilan 
+  thumbnail seluruh file.
+
+
+6. OPSI TINDAKAN FILE TAMBAHAN
+-------------------------------------------------------------------
+- Batal / Undo (BATAL / UNDO / Ctrl+Z):
+  Membatalkan tindakan pemindahan atau penyalinan file terbaru.
+
+- Rename File (Tombol R):
+  Mengubah nama file yang sedang dipilih.
+
+- Batch Rename (Rename Semua):
+  Mengubah nama seluruh file dalam daftar secara serentak sesuai 
+  awalan tertentu (contoh: PSORTER_1.jpg, PSORTER_2.jpg).
+
+- Hapus File (Tombol Delete):
+  Menghapus file media secara permanen.
+
+
+7. RINGKASAN PINTASAN PAPAN KETIK (SHORTCUTS)
+-------------------------------------------------------------------
+- Panah Kiri / Kanan : Navigasi ke file sebelumnya / berikutnya
+- Spacebar           : Putar / Jeda video
+- Enter              : Pindahkan / Salin file ke sub-folder pilihan
+- 1 s.d. 9           : Pindahan cepat ke sub-folder sesuai urutan nomor
+- Ctrl + Z           : Batal (Undo) tindakan terakhir
+- R                  : Rename file yang dipilih
+- N                  : Buat sub-folder baru
+- Delete             : Hapus file saat ini
+- F5                 : Refresh daftar file dan folder
+===================================================================

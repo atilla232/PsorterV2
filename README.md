@@ -115,7 +115,7 @@ Pilih varian aplikasi yang sesuai dengan kebutuhan kamu, lalu klik tombol downlo
 
 ---
 
-### 4️⃣ PSORTERV2 Extensions (Universal Custom Sorter)
+### 4️⃣ PSORTERV2 Extensions (Universal Sorter)
 - **Spesifikasi Minimum:**
   * **OS:** Windows 7 / 8 / 10 / 11 (64-bit)
   * **CPU:** Dual-Core 2.0 GHz (Set alokasi 2 Threads di Settings)

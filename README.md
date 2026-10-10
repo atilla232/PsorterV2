@@ -1,130 +1,118 @@
-# 📂 PSORTERV2 Ecosystem - Aplikasi Penyortir File Praktis
+# 📂 PSORTERV2 - Media & File Sorter
 
-Aplikasi ringan untuk merapikan, memilah, dan memindahkan ribuan foto, video, lagu, atau dokumen ke dalam folder-folder tujuan secara cepat.
-
----
-
-## 🚀 CARA DOWNLOAD (SANGAT MUDAH)
-
-Tidak perlu bingung jika Anda belum pernah menggunakan GitHub. Cukup pilih varian aplikasi yang Anda butuhkan di bawah ini, lalu klik tombol download:
+Aplikasi untuk memilah, menyusun, dan memindahkan foto, video, lagu, atau dokumen ke dalam folder-folder tujuan secara cepat.
 
 ---
 
-### 1️⃣ PSORTERV2 (Khusus Foto & Video)
-> **Cocok untuk:** Merapikan galeri foto dan video hasil dokumentasi/acara.
+## 🚀 Download Aplikasi
 
-[![Download PSORTERV2](https://img.shields.io/badge/🚀_DOWNLOAD_PSORTERV2_(FOTO_%26_VIDEO)-KLIK_DI_SINI-E50914?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-v2.0.0-win64.zip)
+Pilih varian yang sesuai dengan kebutuhan kamu, lalu klik tombol untuk mengunduh file `.zip` secara langsung:
 
-* *Nama file yang diunduh:* **`PsorterV2.exe`**
+### 1️⃣ PSORTERV2 (Foto & Video)
+Memilah galeri foto dan video hasil dokumentasi atau acara.  
+*Fitur:* Opsi **Mode Normal** (dilengkapi media player) & **Mode Optimasi** (super ringan tanpa video player untuk file >10.000).
 
----
-
-### 2️⃣ PSORTERV2 Audio (Khusus Berkas Suara/Musik)
-> **Cocok untuk:** Memilah lagu dan pemutaran audio dengan pemutar musik khusus.
-
-[![Download PSORTERV2 Audio](https://img.shields.io/badge/🚀_DOWNLOAD_PSORTERV2_AUDIO-KLIK_DI_SINI-0088FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Audio-v2.0.0-win64.zip)
-
-* *Nama file yang diunduh:* **`PsorterV2Audio.exe`**
+[![Download PSORTERV2](https://img.shields.io/badge/🚀_Download_PsorterV2_(Foto_%26_Video)-E50914?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-v2.0.0-win64.zip)
 
 ---
 
-### 3️⃣ PSORTERV2 Extensions (Semua Jenis File)
-> **Cocok untuk:** Menyortir semua format file (Foto, Video, Musik, Dokumen PDF/Word, file ZIP, dll.) hingga ke dalam sub-folder.
+### 2️⃣ PSORTERV2 Audio (Musik & Suara)
+Dirancang khusus untuk memilah berkas suara (MP3, WAV, FLAC, M4A, dll.) dengan antarmuka *deck audio player*.
 
-[![Download PSORTERV2 Extensions](https://img.shields.io/badge/🚀_DOWNLOAD_PSORTERV2_EXTENSIONS-KLIK_DI_SINI-2EB872?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Extensions-v2.0.0-win64.zip)
-
-* *Nama file yang diunduh:* **`PsorterV2Extensions.exe`**
+[![Download PSORTERV2 Audio](https://img.shields.io/badge/🚀_Download_PsorterV2_Audio-0088FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Audio-v2.0.0-win64.zip)
 
 ---
 
-### 💡 CARA MENJALANKAN APLIKASI
-1. Klik salah satu tombol **DOWNLOAD** di atas.
-2. Pada halaman yang terbuka, cari bagian **Assets** di bawah, lalu klik nama file `.exe` yang ingin Anda unduh.
-3. **Tanpa perlu diinstall!** Cukup klik 2x file `.exe` yang sudah terunduh, dan aplikasi langsung siap digunakan.
+### 3️⃣ PSORTERV2 Extensions (Semua Format File)
+Mendukung seluruh jenis file (Foto, Video, Musik, Dokumen PDF/Word, ZIP, EXE, dll.) dengan pemindaian sub-folder rekursif.
+
+[![Download PSORTERV2 Extensions](https://img.shields.io/badge/🚀_Download_PsorterV2_Extensions-2EB872?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Extensions-v2.0.0-win64.zip)
 
 ---
 
-## 💻 SPESIFIKASI KOMPUTER / LAPTOP
+## 💡 Cara Menjalankan
 
-### 1. PSORTERV2 (Main Media Sorter - Foto & Video)
-Aplikasi ini berfokus pada penyortiran galeri visual (foto dan video) dengan opsi Mode Optimasi (tanpa video player untuk spek rendah/file > 10.000) dan Mode Normal (multi-thread 4 worker + pemutar media).
+1. Klik tombol **Download** pada varian yang diinginkan. File `.zip` akan otomatis terunduh.
+2. **Ekstrak** file `.zip` tersebut di komputer/laptop kamu.
+3. Jalankan file `.exe` di dalam folder hasil ekstrak. **Aplikasi bersifat portable (tanpa perlu di-install).**
 
+---
+
+## 💻 Spesifikasi Sistem
+
+### 1. PSORTERV2 (Foto & Video)
 * **Spesifikasi Minimum:**
-  * **Sistem Operasi:** Windows 7 / 8 / 10 / 11 (64-bit)
-  * **Prosesor (CPU):** Intel Celeron / Core 2 Duo / AMD Athlon Dual-Core 1.8 GHz
-  * **RAM:** 2 GB (Direkomendasikan menggunakan Mode Optimasi)
-  * **Penyimpanan:** 200 MB ruang kosong untuk aplikasi
-  * **Kartu Grafis (GPU):** Intel HD Graphics / GPU terintegrasi
-  * **Layar:** Resolusi minimal 1280 x 720
+  * **OS:** Windows 7 / 8 / 10 / 11 (64-bit)
+  * **CPU:** Dual-Core 1.8 GHz (Intel Celeron / Core 2 Duo / AMD Athlon)
+  * **RAM:** 2 GB (Disarankan Mode Optimasi)
+  * **Penyimpanan:** 200 MB ruang kosong
+  * **GPU:** Intel HD Graphics / Terintegrasi
+  * **Layar:** Minimal 1280 x 720
 * **Spesifikasi Rekomendasi:**
-  * **Sistem Operasi:** Windows 10 / 11 (64-bit)
-  * **Prosesor (CPU):** Intel Core i3/i5 (Gen 8+) / AMD Ryzen 3/5 Quad-Core 2.5 GHz+
-  * **RAM:** 4 GB – 8 GB (Untuk kelancaran Mode Normal)
-  * **Penyimpanan:** SSD (SATA / NVMe) untuk kecepatan read/write media
-  * **Kartu Grafis (GPU):** GPU terintegrasi / Dedicated GPU dengan dukungan hardware decoding video 1080p
-  * **Layar:** Resolusi 1920 x 1080 (Full HD)
-  * **Tambahan:** VLC Media Player terinstall di sistem (opsional, untuk playback audio/video alternatif)
+  * **OS:** Windows 10 / 11 (64-bit)
+  * **CPU:** Quad-Core 2.5 GHz+ (Intel Core i3/i5 Gen 8+ / AMD Ryzen 3/5)
+  * **RAM:** 4 GB – 8 GB
+  * **Penyimpanan:** SSD (SATA / NVMe)
+  * **GPU:** Terintegrasi / Dedicated GPU (hardware decoding video 1080p)
+  * **Layar:** 1920 x 1080 (Full HD)
+  * **Lainnya:** Terinstall VLC Media Player (opsional)
 
 ---
 
 ### 2. PSORTERV2 Audio (Audio Deck Sorter)
-Aplikasi ini dirancang khusus untuk organisasi berkas suara (MP3, WAV, FLAC, M4A, dll.) menggunakan engine VLC / Pygame dengan antarmuka deck/vinyl player.
-
 * **Spesifikasi Minimum:**
-  * **Sistem Operasi:** Windows 7 / 8 / 10 / 11 (32-bit / 64-bit)
-  * **Prosesor (CPU):** Single-Core / Dual-Core 1.5 GHz
+  * **OS:** Windows 7 / 8 / 10 / 11 (32-bit / 64-bit)
+  * **CPU:** Single-Core / Dual-Core 1.5 GHz
   * **RAM:** 1 GB – 2 GB
   * **Penyimpanan:** 150 MB ruang kosong
-  * **Perangkat Suara:** Sound Card bawaan / Audio Jack Output
-  * **Layar:** Resolusi minimal 1280 x 720
+  * **Audio:** Sound Card bawaan / Jack Output
+  * **Layar:** Minimal 1280 x 720
 * **Spesifikasi Rekomendasi:**
-  * **Sistem Operasi:** Windows 10 / 11 (64-bit)
-  * **Prosesor (CPU):** Dual-Core / Quad-Core 2.0 GHz+
+  * **OS:** Windows 10 / 11 (64-bit)
+  * **CPU:** Dual-Core / Quad-Core 2.0 GHz+
   * **RAM:** 4 GB
   * **Penyimpanan:** SSD
-  * **Perangkat Suara:** Sound Card / DAC (Digital-to-Analog Converter) untuk pemantauan kualitas format Lossless (FLAC/WAV)
-  * **Layar:** Resolusi 1920 x 1080
-  * **Tambahan:** VLC Media Player terinstall (memberikan dukungan codec audio paling lengkap)
+  * **Audio:** Sound Card / DAC (untuk pemantauan kualitas format Lossless FLAC/WAV)
+  * **Layar:** 1920 x 1080
+  * **Lainnya:** Terinstall VLC Media Player (dukungan codec lengkap)
 
 ---
 
 ### 3. PSORTERV2 Extensions (Universal Custom Sorter)
-Aplikasi paling fleksibel untuk semua format file (Foto, Video, Audio, Dokumen, Archive, Executable) dengan dukungan pemindaian sub-folder rekursif, batas RAM cache yang dapat diatur, dan multi-threading hingga 16 threads.
-
 * **Spesifikasi Minimum:**
-  * **Sistem Operasi:** Windows 7 / 8 / 10 / 11 (64-bit)
-  * **Prosesor (CPU):** Dual-Core 2.0 GHz (Atur alokasi ke 2 Threads di Settings)
-  * **RAM:** 2 GB (Atur batas RAM Cache ke 256 MB / 512 MB)
+  * **OS:** Windows 7 / 8 / 10 / 11 (64-bit)
+  * **CPU:** Dual-Core 2.0 GHz (Set alokasi 2 Threads di Settings)
+  * **RAM:** 2 GB (Set batas RAM Cache 256 MB / 512 MB)
   * **Penyimpanan:** 250 MB ruang kosong
-  * **Kartu Grafis (GPU):** GPU terintegrasi
-  * **Layar:** Resolusi minimal 1366 x 768
+  * **GPU:** Terintegrasi
+  * **Layar:** Minimal 1366 x 768
 * **Spesifikasi Rekomendasi:**
-  * **Sistem Operasi:** Windows 10 / 11 (64-bit)
-  * **Prosesor (CPU):** Quad-Core / Octa-Core 3.0 GHz+ (Atur alokasi ke 4 - 8 Threads untuk thumbnail rendering & pemindaian folder cepat)
-  * **RAM:** 8 GB+ (Atur batas RAM Cache ke 1024 MB / 2048 MB untuk menangani pemindaian puluhan ribu file & sub-folder)
-  * **Penyimpanan:** NVMe SSD (Sangat penting untuk efisiensi batch move/copy dokumen, archive, dan media berukuran besar)
-  * **Kartu Grafis (GPU):** GPU terintegrasi / Dedicated GPU
-  * **Layar:** Resolusi 1920 x 1080 (Disarankan karena ukuran jendela default aplikasi 1380x850 membutuhkan area layar yang luas)
+  * **OS:** Windows 10 / 11 (64-bit)
+  * **CPU:** Quad-Core / Octa-Core 3.0 GHz+ (Set alokasi 4 – 8 Threads)
+  * **RAM:** 8 GB+ (RAM Cache 1024 MB – 2048 MB untuk pemindaian puluhan ribu file)
+  * **Penyimpanan:** NVMe SSD (Penting untuk efisiensi *batch move/copy*)
+  * **GPU:** Terintegrasi / Dedicated GPU
+  * **Layar:** 1920 x 1080 (Ukuran jendela aplikasi 1380x850)
 
 ---
 
-## ⌨️ TOMBOL PINTASAN KEYBOARD (SHORTCUTS)
+## ⌨️ Shortcut Keyboard
 
-| Tombol Keyboard | Fungsi |
+| Tombol | Fungsi |
 | :--- | :--- |
-| **Panah Kiri / Kanan** | Pindah ke file sebelum / sesudahnya |
-| **Spasi (Spacebar)** | Putar / Hentikan (*Play/Pause*) media |
-| **Enter** | Pindahkan / Salin file ke folder yang dipilih |
-| **Angka 1 s.d. 9** | Pindahkan cepat ke folder urutan 1 sampai 9 |
-| **Ctrl + Z** | Batalkan (*Undo*) tindakan pemindahan terakhir |
+| **Panah Kiri / Kanan** | Navigasi file sebelum / sesudahnya |
+| **Spasi (Spacebar)** | Play / Pause media |
+| **Enter** | Pindahkan / Salin file ke sub-folder pilihan |
+| **Angka 1 s.d. 9** | Pindah cepat ke folder urutan 1–9 |
+| **Ctrl + Z** | Batal (*Undo*) tindakan terakhir |
 | **R** | Ubah nama (*Rename*) file |
-| **N** | Buat folder baru |
+| **N** | Buat sub-folder baru |
 | **Delete** | Hapus file |
-| **F5** | Muat ulang (*Refresh*) daftar file |
+| **F5** | Refresh daftar file & folder |
 
 ---
 
-## 💛 DUKUNGAN & DONASI
+## 💛 Dukungan & Donasi
 
-Jika aplikasi ini bermanfaat dan membantu mempermudah pekerjaan Anda, Anda dapat memberikan dukungan kepada pengembang via Saweria:  
+Jika aplikasi ini membantu pekerjaan kamu, dukung pengembang melalui Saweria:  
 👉 [**Donasi via Saweria Atillaraihan**](https://saweria.co/Atillaraihan)

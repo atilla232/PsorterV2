@@ -13,7 +13,7 @@ Tidak perlu bingung jika Anda belum pernah menggunakan GitHub. Cukup pilih varia
 ### 1️⃣ PSORTERV2 (Khusus Foto & Video)
 > **Cocok untuk:** Merapikan galeri foto dan video hasil dokumentasi/acara.
 
-[![Download PSORTERV2](https://img.shields.io/badge/🚀_DOWNLOAD_PSORTERV2_(FOTO_%26_VIDEO)-KLIK_DI_SINI-E50914?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest)
+[![Download PSORTERV2](https://img.shields.io/badge/🚀_DOWNLOAD_PSORTERV2_(FOTO_%26_VIDEO)-KLIK_DI_SINI-E50914?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-v2.0.0-win64.zip)
 
 * *Nama file yang diunduh:* **`PsorterV2.exe`**
 
@@ -22,7 +22,7 @@ Tidak perlu bingung jika Anda belum pernah menggunakan GitHub. Cukup pilih varia
 ### 2️⃣ PSORTERV2 Audio (Khusus Berkas Suara/Musik)
 > **Cocok untuk:** Memilah lagu dan pemutaran audio dengan pemutar musik khusus.
 
-[![Download PSORTERV2 Audio](https://img.shields.io/badge/🚀_DOWNLOAD_PSORTERV2_AUDIO-KLIK_DI_SINI-0088FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest)
+[![Download PSORTERV2 Audio](https://img.shields.io/badge/🚀_DOWNLOAD_PSORTERV2_AUDIO-KLIK_DI_SINI-0088FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Audio-v2.0.0-win64.zip)
 
 * *Nama file yang diunduh:* **`PsorterV2Audio.exe`**
 
@@ -31,7 +31,7 @@ Tidak perlu bingung jika Anda belum pernah menggunakan GitHub. Cukup pilih varia
 ### 3️⃣ PSORTERV2 Extensions (Semua Jenis File)
 > **Cocok untuk:** Menyortir semua format file (Foto, Video, Musik, Dokumen PDF/Word, file ZIP, dll.) hingga ke dalam sub-folder.
 
-[![Download PSORTERV2 Extensions](https://img.shields.io/badge/🚀_DOWNLOAD_PSORTERV2_EXTENSIONS-KLIK_DI_SINI-2EB872?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest)
+[![Download PSORTERV2 Extensions](https://img.shields.io/badge/🚀_DOWNLOAD_PSORTERV2_EXTENSIONS-KLIK_DI_SINI-2EB872?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Extensions-v2.0.0-win64.zip)
 
 * *Nama file yang diunduh:* **`PsorterV2Extensions.exe`**
 

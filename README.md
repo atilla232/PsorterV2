@@ -161,9 +161,9 @@ Pilih varian aplikasi yang sesuai dengan kebutuhan kamu, lalu klik tombol downlo
 Jika aplikasi ini bermanfaat dan membantu mempermudah pekerjaan kamu, dukung pengembang melalui Saweria:  
 👉 [**Donasi via Saweria Atillaraihan**](https://saweria.co/Atillaraihan)
 
-## ⚠️ Sanggahan & Batasan Tanggung Jawab (Disclaimer)
-
 ---
+
+## ⚠️ Disclaimer
 
 Aplikasi ini disediakan secara **"AS IS" (Apa Adanya)** tanpa garansi dalam bentuk apa pun, baik tersurat maupun tersirat. 
 

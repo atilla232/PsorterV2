@@ -56,6 +56,13 @@ Pilih varian aplikasi yang sesuai dengan kebutuhan kamu, lalu klik tombol downlo
 
 ---
 
+## 🔒 Privasi & Keamanan Data
+
+* **Pemrosesan Lokal:** 100% pemrosesan file (foto, video, audio, dokumen) dilakukan secara lokal di perangkat kamu tanpa koneksi ke server luar.
+* **Tanpa Pengumpulan Data:** Aplikasi ini tidak mengumpulkan, menyimpan, atau melacak data pribadi maupun berkas media pengguna.
+
+---
+
 ## 💻 Spesifikasi Komputer / Laptop
 
 ### 1️⃣ PSORTERV2 Lite (Single-Core Photo Sorter)
@@ -153,3 +160,16 @@ Pilih varian aplikasi yang sesuai dengan kebutuhan kamu, lalu klik tombol downlo
 
 Jika aplikasi ini bermanfaat dan membantu mempermudah pekerjaan kamu, dukung pengembang melalui Saweria:  
 👉 [**Donasi via Saweria Atillaraihan**](https://saweria.co/Atillaraihan)
+
+## ⚠️ Sanggahan & Batasan Tanggung Jawab (Disclaimer)
+
+---
+
+Aplikasi ini disediakan secara **"AS IS" (Apa Adanya)** tanpa garansi dalam bentuk apa pun, baik tersurat maupun tersirat. 
+
+* **Risiko Penggunaan:** Penggunaan aplikasi ini sepenuhnya menjadi risiko dan tanggung jawab pengguna sendiri.
+* **Kehilangan Data:** Pengembang tidak bertanggung jawab atas kerugian, kerusakan, atau kehilangan data/file yang disebabkan oleh penggunaan aplikasi ini.
+* **Saran:** Sangat disarankan untuk melakukan cadangan (*backup*) data penting sebelum melakukan pemrosesan file dalam jumlah besar (*batch process*).
+
+
+

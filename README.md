@@ -58,7 +58,7 @@ Pilih varian aplikasi yang sesuai dengan kebutuhan kamu, lalu klik tombol downlo
 
 ## 💻 Spesifikasi Komputer / Laptop
 
-### 1️⃣ PSORTERV2 Lite (UltraLite - 1-Core Photo Sorter)
+### 1️⃣ PSORTERV2 Lite (Single-Core Photo Sorter)
 - **Spesifikasi Minimum:**
   * **Sistem Operasi:** Windows XP SP3 / 7 / 8 / 10 / 11 (32-bit atau 64-bit)
   * **Prosesor (CPU):** Single-Core 1.0 GHz (Intel Atom, Celeron lama, AMD Sempron)

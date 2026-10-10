@@ -171,5 +171,9 @@ Aplikasi ini disediakan secara **"AS IS" (Apa Adanya)** tanpa garansi dalam bent
 * **Kehilangan Data:** Pengembang tidak bertanggung jawab atas kerugian, kerusakan, atau kehilangan data/file yang disebabkan oleh penggunaan aplikasi ini.
 * **Saran:** Sangat disarankan untuk melakukan cadangan (*backup*) data penting sebelum melakukan pemrosesan file dalam jumlah besar (*batch process*).
 
+---
+
+## ⚖️ Penegasan Operasional
+Aplikasi ini merupakan alat bantu (*utility tool*) yang beroperasi 100% berdasarkan eksekusi perintah aktif dari pengguna (User-Initiated Action). Aplikasi tidak memiliki fungsi otonom untuk mengubah, memindahkan, atau menghapus berkas tanpa masukan (*input*) eksplisit dari pengguna.
 
 

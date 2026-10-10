@@ -39,8 +39,8 @@ Pilih varian aplikasi yang sesuai dengan kebutuhan kamu, lalu klik tombol downlo
 
 ---
 
-### ⚡ 4️⃣ PSORTERV2 Lite (UltraLite / 1-Core Photo Sorter)
-> **Cocok untuk:** Komputer spesifikasi sangat rendah (PC lama/Netbook). Khusus penyortiran foto.
+### ⚡ 4️⃣ PSORTERV2 Lite (Single-Core Photo Sorter)
+> **Cocok untuk:** Komputer spesifikasi sangat rendah. Khusus penyortiran foto.
 > 
 > ⚠️ **Catatan Versi Lite:** Versi ini bersifat statis (*standalone/offline*), **tidak mendukung fitur live auto-update**, dan pengembangannya sudah **final (tidak akan ada update lagi)**.
 

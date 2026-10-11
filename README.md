@@ -13,7 +13,7 @@ Pilih varian aplikasi yang sesuai dengan kebutuhan kamu, lalu klik tombol downlo
 ### 📦 0️⃣ Master Collection (Paket Lengkap All-in-One)
 > **Cocok untuk:** Mengunduh seluruh varian aplikasi (Main, Audio, Extensions, dan Lite) sekaligus dalam satu paket bundel.
 
-[![Download Master Collection](https://img.shields.io/badge/📦_Download_Master_Collection_(v2.1.0)-8B5CF6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-MasterCollection-v2.1.0-win64.zip)
+[![Download Master Collection](https://img.shields.io/badge/📦_Download_Master_Collection_(v2.0.0)-8B5CF6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-MasterCollection-v2.0.0-win64.zip)
 
 ---
 
@@ -21,21 +21,21 @@ Pilih varian aplikasi yang sesuai dengan kebutuhan kamu, lalu klik tombol downlo
 > **Cocok untuk:** Memilah galeri foto dan video hasil dokumentasi atau acara.
 > *Fitur:* **Mode Normal** (dilengkapi media player visual) & **Mode Optimasi** (super ringan tanpa video player untuk pemrosesan >10.000 file).
 
-[![Download PSORTERV2](https://img.shields.io/badge/🚀_Download_PsorterV2_(v2.1.0)-E50914?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-v2.1.0-win64.zip)
+[![Download PSORTERV2](https://img.shields.io/badge/🚀_Download_PsorterV2_(v2.0.0)-E50914?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-v2.0.0-win64.zip)
 
 ---
 
 ### 🎵 2️⃣ PSORTERV2 Audio (Musik & Suara)
 > **Cocok untuk:** Dirancang khusus untuk memilah berkas suara (MP3, WAV, FLAC, M4A, dll.) dengan antarmuka *deck audio player*.
 
-[![Download PSORTERV2 Audio](https://img.shields.io/badge/🚀_Download_PsorterV2_Audio_(v2.1.0)-0088FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Audio-v2.1.0-win64.zip)
+[![Download PSORTERV2 Audio](https://img.shields.io/badge/🚀_Download_PsorterV2_Audio_(v2.0.0)-0088FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Audio-v2.0.0-win64.zip)
 
 ---
 
 ### 🧩 3️⃣ PSORTERV2 Extensions (Semua Format File)
 > **Cocok untuk:** Menyortir seluruh jenis file (Foto, Video, Musik, Dokumen PDF/Word, ZIP, EXE, dll.) dengan pemindaian sub-folder rekursif.
 
-[![Download PSORTERV2 Extensions](https://img.shields.io/badge/🚀_Download_PsorterV2_Extensions_(v2.1.0)-2EB872?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Extensions-v2.1.0-win64.zip)
+[![Download PSORTERV2 Extensions](https://img.shields.io/badge/🚀_Download_PsorterV2_Extensions_(v2.0.0)-2EB872?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Extensions-v2.0.0-win64.zip)
 
 ---
 

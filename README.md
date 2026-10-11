@@ -44,7 +44,7 @@ Pilih varian aplikasi yang sesuai dengan kebutuhan kamu, lalu klik tombol downlo
 > 
 > ⚠️ **Catatan Versi Lite:** Versi ini bersifat statis (*standalone/offline*), **tidak mendukung fitur live auto-update**, dan pengembangannya sudah **final (tidak akan ada update lagi)**.
 
-[![Download PSORTERV2 Lite](https://img.shields.io/badge/⚡_Download_PsorterV2_Lite_(v2.1.0)-F59E0B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Lite-v2.1.0-win32.zip)
+[![Download PSORTERV2 Lite](https://img.shields.io/badge/⚡_Download_PsorterV2_Lite_(v2.0.0)-F59E0B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/atilla232/PsorterV2/releases/latest/download/PsorterV2-Lite-v2.1.0-win32.zip)
 
 ---
 
